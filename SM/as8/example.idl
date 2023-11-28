@@ -1,0 +1,5 @@
+module Example {
+  interface HelloWorld {
+    string sayHello();
+  };
+};
